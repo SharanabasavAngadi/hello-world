@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test from Sharan/Shruthi </h3>
+<h1> Hello, Welcome to Adhvika Home !!! </h1>
+<h2> care of Shruthi and Sharan </h2>
+<h3> Adhika is our lovely daughter </h3>
